@@ -1,0 +1,53 @@
+_repo: Stories-by-Foreign-Authors--Italian_5728
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Fogazzaro, Antonio
+    birthdate: 1842
+    deathdate: 1911
+    gutenberg_agent_id: '2759'
+    url: http://www.gutenberg.org/2009/agents/2759
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Fogazzaro
+  - agent_name: Castelnuovo, Enrico
+    birthdate: 1839
+    deathdate: 1915
+    gutenberg_agent_id: '8678'
+    url: http://www.gutenberg.org/2009/agents/8678
+    wikipedia: http://en.wikipedia.org/wiki/Enrico_Castelnuovo
+  - agent_name: D'Annunzio, Gabriele
+    aliases:
+    - Annunzio, Gabriele d'
+    - Montenevoso, Gabriele d’Annunzio, principe di
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '9030'
+    url: http://www.gutenberg.org/2009/agents/9030
+    wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
+  - agent_name: De Amicis, Edmondo
+    aliases:
+    - Amicis, Edmundo de
+    - Amichis, Edmondo de
+    - Amicis, Edmondo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia: http://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Italian -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: "A Great Day, by De Amicis, Tr.: Wharton\r\nPereat Rochus, by Fogazzaro,\
+  \ Tr.: Frothingham\r\nSan Pantaleone, by D'annunzio, Tr.: Harper\r\nIt Snows, by\
+  \ Castelnuovo, Tr.: Wharton\r\nCollege Friends, by De Amicis, Tr.: Wharton."
+title: 'Stories by Foreign Authors: Italian'
+url: http://www.gutenberg.org/ebooks/5728
